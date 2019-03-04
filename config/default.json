@@ -1,0 +1,12 @@
+{
+	"express": {
+		"host": "localhost",
+		"port": 8000
+	},
+	"mongo": {
+		"uris": "mongodb://localhost:27017/matchdb"
+	},
+	"password": {
+		"saltRounds": 10
+	}
+}

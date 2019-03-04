@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"*": ["types/*"]
+		},
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"lib": ["esnext"]
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
